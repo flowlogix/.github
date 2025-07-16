@@ -3,7 +3,7 @@
 Please visit our website at https://flowlogix.com for more information.
 
 == Quick Start
-link:https://start.flowlogix.com[Quick Start Application]
+link:https://start.flowlogix.com[Quick Start Page]
 
 == Our Open Source Repositories
 * link:https://github.com/flowlogix/flowlogix[Jakarta EE Components]
