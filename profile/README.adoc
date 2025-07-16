@@ -3,6 +3,6 @@
 Please visit our website at https://flowlogix.com for more information.
 
 == Our Open Source Repositories
-* link:flowlogix[Jakarta EE Components]
-* link:depchains[Quick Start]
-* link:base-pom[Maven Base POM]
+* link:/flowlogix/flowlogix[Jakarta EE Components]
+* link:/flowlogix/depchains[Quick Start]
+* link:/flowlogix/base-pom[Maven Base POM]
