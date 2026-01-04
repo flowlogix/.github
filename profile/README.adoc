@@ -2,7 +2,11 @@
 
 Please visit our website at https://flowlogix.com for more information.
 
-== Quick Start
+== FlowLogix Mirror-Immich
+Sync your Apple macOS Photos images to Immich with titles, descriptions, keywords and albums + 
+link:https://github.com/flowlogix/mirror-immich[Mirror-Immich on GitHub]
+
+== Maven Quick Start
 link:https://start.flowlogix.com[Quick Start Page]
 
 == Our Open Source Repositories
