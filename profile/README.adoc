@@ -13,3 +13,8 @@ link:https://start.flowlogix.com[Quick Start Page]
 * link:https://github.com/flowlogix/flowlogix[Jakarta EE Components]
 * link:https://github.com/flowlogix/depchain[Quick Start Dependency Chain]
 * link:https://github.com/flowlogix/base-pom[Maven Base POM]
+
+== Credentials
+++++
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56f64713-d104-4720-8afe-b7b5d083f47b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+++++
