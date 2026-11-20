@@ -15,6 +15,4 @@ link:https://start.flowlogix.com[Quick Start Page]
 * link:https://github.com/flowlogix/base-pom[Maven Base POM]
 
 == Credentials
-++++
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56f64713-d104-4720-8afe-b7b5d083f47b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-++++
+link:https://www.credly.com/badges/56f64713-d104-4720-8afe-b7b5d083f47b[image:https://images.credly.com/size/150x150/images/cda2302b-7758-428e-a02b-62d1428481be/image.png[Security Slam 2026 CRA Readiness Badge,150]]
